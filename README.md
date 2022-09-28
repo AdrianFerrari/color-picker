@@ -6,4 +6,4 @@ It's a solo project from a scrimba course. You pick an color from the **color pi
 -REST
 
 ##Screenshot
-![](Screenshot%20colorPicker.png)
+![](Screenshot.png)
