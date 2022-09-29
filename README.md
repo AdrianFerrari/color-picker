@@ -5,5 +5,5 @@ It's a solo project from a scrimba course. You pick an color from the **color pi
 - API
 - REST
 
-##Screenshot
+## Screenshot
 ![](Screenshot.png)
